@@ -1,5 +1,5 @@
 
-// Like a javascript reduce
+// Given an integer array find the elements that added resoves to the target
 
 var twoSum = function(nums, target) {    
   let array = [];
