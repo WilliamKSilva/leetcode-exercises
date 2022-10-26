@@ -1,5 +1,5 @@
 
-// Given an integer array find the elements that added resoves to the target
+// Given an integer array find the elements that added resolves to the target
 
 var twoSum = function(nums, target) {    
   let array = [];
